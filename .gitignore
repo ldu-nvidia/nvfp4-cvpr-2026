@@ -1,0 +1,48 @@
+# Data & checkpoints (too large for git)
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+lgg-mri-segmentation/
+checkpoints/
+results/
+archive*/
+comparison_plots/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.out
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.lof
+*.lot

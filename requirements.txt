@@ -1,0 +1,19 @@
+# Core deep learning
+torch>=2.9.0
+torchvision>=0.24.0
+
+# Data & augmentation
+numpy>=2.2
+pandas>=2.3
+albumentations>=2.0
+opencv-python-headless>=4.12
+Pillow>=12.0
+
+# Evaluation & statistics
+scikit-learn>=1.7
+scipy>=1.15
+
+# Visualization
+matplotlib>=3.10
+
+# NVFP4 QAT recipes require a compatible training environment.
